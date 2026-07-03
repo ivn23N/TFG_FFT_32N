@@ -47,3 +47,6 @@ package twiddle_pkg is
         -12540,  -- k = 14
          -6393   -- k = 15
     );
+
+end package twiddle_pkg;
+
